@@ -1,0 +1,16 @@
+.box-space {
+  margin-bottom: 10px
+}
+
+.discount {
+  color: red
+}
+
+.price {
+  text-decoration: line-through;
+  padding: 0 10px 0 0
+}
+
+.left {
+  float: left
+}
